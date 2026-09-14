@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21280A87-9081-47B5-92DC-C1AAD7701E19}|WinFormsApp1.csproj|c:\\users\\hp\\documents\\winformsapp1\\xtrareport1.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form",
+      "RelativeMoniker": "D:0:0:{21280A87-9081-47B5-92DC-C1AAD7701E19}|WinFormsApp1.csproj|solutionrelative:xtrareport1.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21280A87-9081-47B5-92DC-C1AAD7701E19}|WinFormsApp1.csproj|C:\\Users\\HP\\Documents\\WinFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21280A87-9081-47B5-92DC-C1AAD7701E19}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XtraReport1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\WinFormsApp1\\XtraReport1.cs",
+              "RelativeDocumentMoniker": "XtraReport1.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\WinFormsApp1\\XtraReport1.cs [Design]",
+              "RelativeToolTip": "XtraReport1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T08:08:39.651Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T07:45:04.291Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
