@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "C:\\Users\\HP\\Documents\\project-root\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "C:\\Users\\HP\\Documents\\project-root\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\project-root\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "C:\\Users\\HP\\Documents\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\project-root\\WinFormsApp1\\WinFormsApp1.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\WinFormsApp1\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\project-root\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\HP\\Desktop\\Offline Packages",

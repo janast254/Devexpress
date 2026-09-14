@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\WinFormsApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DAA13AF3-2F24-49F2-986F-A4F21EB996FA}|WinFormsApp2.csproj|c:\\users\\hp\\documents\\winformsapp2\\xtrareport1.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form",
-      "RelativeMoniker": "D:0:0:{DAA13AF3-2F24-49F2-986F-A4F21EB996FA}|WinFormsApp2.csproj|solutionrelative:xtrareport1.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DAA13AF3-2F24-49F2-986F-A4F21EB996FA}|WinFormsApp2.csproj|c:\\users\\hp\\documents\\winformsapp2\\xtrareport2.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form",
       "RelativeMoniker": "D:0:0:{DAA13AF3-2F24-49F2-986F-A4F21EB996FA}|WinFormsApp2.csproj|solutionrelative:xtrareport2.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form"
     },
@@ -27,38 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "XtraReport1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\WinFormsApp2\\XtraReport1.cs",
-              "RelativeDocumentMoniker": "XtraReport1.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\WinFormsApp2\\XtraReport1.cs [Design]",
-              "RelativeToolTip": "XtraReport1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T10:33:33.909Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "XtraReport2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\WinFormsApp2\\XtraReport2.cs",
               "RelativeDocumentMoniker": "XtraReport2.cs",
               "ToolTip": "C:\\Users\\HP\\Documents\\WinFormsApp2\\XtraReport2.cs [Design]",
               "RelativeToolTip": "XtraReport2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T10:30:17.847Z",
+              "WhenOpened": "2026-09-14T15:33:09.218Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\WinFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\HP\\Documents\\WinFormsApp2\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T09:00:21.026Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-09-14T09:00:21.026Z"
             }
           ]
         }

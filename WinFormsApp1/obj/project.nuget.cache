@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QZIl0+BACHc=",
+  "dgSpecHash": "8YvSxreGqyg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Documents\\WinFormsApp1\\WinFormsApp1.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Documents\\project-root\\WinFormsApp1\\WinFormsApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\Desktop\\Offline Packages\\devexpress.charts\\26.1.4\\devexpress.charts.26.1.4.nupkg.sha512",
     "C:\\Users\\HP\\Desktop\\Offline Packages\\devexpress.charts.core\\26.1.4\\devexpress.charts.core.26.1.4.nupkg.sha512",
@@ -48,15 +48,5 @@
     "C:\\Users\\HP\\.nuget\\packages\\system.servicemodel.nettcp\\8.1.2\\system.servicemodel.nettcp.8.1.2.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.servicemodel.primitives\\8.1.2\\system.servicemodel.primitives.8.1.2.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
-      "projectPath": "C:\\Users\\HP\\Documents\\WinFormsApp1\\WinFormsApp1.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\HP\\Documents\\WinFormsApp1\\WinFormsApp1.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }
