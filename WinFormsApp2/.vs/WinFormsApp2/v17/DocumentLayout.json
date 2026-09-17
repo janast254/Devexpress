@@ -29,7 +29,7 @@
               "ToolTip": "C:\\Users\\HP\\Documents\\project-root\\WinFormsApp2\\XtraReport2.cs [Design]",
               "RelativeToolTip": "XtraReport2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T13:50:26.142Z",
+              "WhenOpened": "2026-09-17T14:10:19.635Z",
               "EditorCaption": " [Design]"
             },
             {
@@ -43,16 +43,14 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-14T09:00:21.026Z",
               "EditorCaption": " [Design]"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }
