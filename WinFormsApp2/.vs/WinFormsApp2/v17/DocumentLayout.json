@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\project-root\\WinFormsApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DAA13AF3-2F24-49F2-986F-A4F21EB996FA}|WinFormsApp2.csproj|c:\\users\\hp\\documents\\project-root\\winformsapp2\\xtrareport2.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form",
-      "RelativeMoniker": "D:0:0:{DAA13AF3-2F24-49F2-986F-A4F21EB996FA}|WinFormsApp2.csproj|solutionrelative:xtrareport2.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DAA13AF3-2F24-49F2-986F-A4F21EB996FA}|WinFormsApp2.csproj|C:\\Users\\HP\\Documents\\project-root\\WinFormsApp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DAA13AF3-2F24-49F2-986F-A4F21EB996FA}|WinFormsApp2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -23,18 +19,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "XtraReport2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\project-root\\WinFormsApp2\\XtraReport2.cs",
-              "RelativeDocumentMoniker": "XtraReport2.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\project-root\\WinFormsApp2\\XtraReport2.cs [Design]",
-              "RelativeToolTip": "XtraReport2.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T09:50:03.193Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\project-root\\WinFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
