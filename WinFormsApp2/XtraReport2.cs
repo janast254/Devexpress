@@ -11,6 +11,7 @@ namespace WinFormsApp2
         public XtraReport2()
         {
             InitializeComponent();
+            xrTableCell6.BookmarkParent = xrTableCell1;
         }
     }
 }

@@ -5,6 +5,7 @@ namespace WinFormsApp2
         public Form1()
         {
             InitializeComponent();
+            new DevExpress.XtraReports.UI.ReportPrintTool(new XtraReport2()).ShowPreview();
         }
     }
 }

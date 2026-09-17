@@ -117,13 +117,3 @@ C:\Users\HP\Documents\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.
 C:\Users\HP\Documents\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
 C:\Users\HP\Documents\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
 C:\Users\HP\Documents\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
-C:\Users\HP\Documents\project-root\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
-C:\Users\HP\Documents\project-root\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
-C:\Users\HP\Documents\project-root\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.XtraReport1.resources
-C:\Users\HP\Documents\project-root\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.XtraReport2.resources
-C:\Users\HP\Documents\project-root\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
-C:\Users\HP\Documents\project-root\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\HP\Documents\project-root\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
-C:\Users\HP\Documents\project-root\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
-C:\Users\HP\Documents\project-root\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
-C:\Users\HP\Documents\project-root\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.sourcelink.json
